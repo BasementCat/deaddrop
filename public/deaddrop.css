@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.title h1 {
+    text-align: center;
+}
+
+.attribution label {
+    display: block;
+    clear: both;
+    font-weight: bold;
+}
+
+.attribution textarea {
+    width: 100%;
+    min-height: 7em;
+}
+
+#alert-container div {
+    margin: 0.5em 0em;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    border: 1px solid #000;
+    background-color: #eee;
+}
+
+#alert-container div.info {
+    border: 1px solid #66f;
+    background-color: #eef;
+}
